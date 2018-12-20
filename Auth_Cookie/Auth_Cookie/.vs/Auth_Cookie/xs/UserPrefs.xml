@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{218F1983-3167-48D0-BCB5-79134DB1FC7B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthWeb/Properties/launchSettings.json">
+    <Files>
+      <File FileName="AuthWeb/Program.cs" Line="29" Column="43" />
+      <File FileName="AuthWeb/Properties/launchSettings.json" Line="17" Column="7" />
+      <File FileName="AuthWeb/Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AuthWeb PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

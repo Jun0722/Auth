@@ -1,0 +1,14 @@
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/bin/Debug/netcoreapp2.1/AuthWeb.deps.json
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/bin/Debug/netcoreapp2.1/AuthWeb.runtimeconfig.json
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/bin/Debug/netcoreapp2.1/AuthWeb.runtimeconfig.dev.json
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/bin/Debug/netcoreapp2.1/AuthWeb.dll
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/bin/Debug/netcoreapp2.1/AuthWeb.pdb
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/obj/Debug/netcoreapp2.1/AuthWeb.csprojAssemblyReference.cache
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/obj/Debug/netcoreapp2.1/AuthWeb.csproj.CoreCompileInputs.cache
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/obj/Debug/netcoreapp2.1/AuthWeb.RazorAssemblyInfo.cache
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/obj/Debug/netcoreapp2.1/AuthWeb.RazorAssemblyInfo.cs
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/obj/Debug/netcoreapp2.1/AuthWeb.AssemblyInfoInputs.cache
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/obj/Debug/netcoreapp2.1/AuthWeb.AssemblyInfo.cs
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/obj/Debug/netcoreapp2.1/AuthWeb.RazorTargetAssemblyInfo.cache
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/obj/Debug/netcoreapp2.1/AuthWeb.dll
+/Users/xuanwang/Desktop/Auth/Auth_Cookie/Auth_Cookie/AuthWeb/obj/Debug/netcoreapp2.1/AuthWeb.pdb
