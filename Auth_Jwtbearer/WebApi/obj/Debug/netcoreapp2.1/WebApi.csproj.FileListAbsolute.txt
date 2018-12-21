@@ -1,0 +1,14 @@
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/bin/Debug/netcoreapp2.1/WebApi.deps.json
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/bin/Debug/netcoreapp2.1/WebApi.runtimeconfig.json
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/bin/Debug/netcoreapp2.1/WebApi.runtimeconfig.dev.json
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/bin/Debug/netcoreapp2.1/WebApi.dll
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/bin/Debug/netcoreapp2.1/WebApi.pdb
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/obj/Debug/netcoreapp2.1/WebApi.csprojAssemblyReference.cache
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/obj/Debug/netcoreapp2.1/WebApi.csproj.CoreCompileInputs.cache
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/obj/Debug/netcoreapp2.1/WebApi.RazorAssemblyInfo.cache
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/obj/Debug/netcoreapp2.1/WebApi.RazorAssemblyInfo.cs
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/obj/Debug/netcoreapp2.1/WebApi.AssemblyInfoInputs.cache
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/obj/Debug/netcoreapp2.1/WebApi.AssemblyInfo.cs
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/obj/Debug/netcoreapp2.1/WebApi.RazorTargetAssemblyInfo.cache
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/obj/Debug/netcoreapp2.1/WebApi.dll
+/Users/xuanwang/Desktop/Auth/Auth_Jwtbearer/WebApi/obj/Debug/netcoreapp2.1/WebApi.pdb
